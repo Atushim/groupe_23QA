@@ -1,0 +1,11 @@
+1.ID
+2.Summary
+3.Product
+4.Status
+5.Priority
+6.Severity
+7.Preconditions
+8.Steps to reproduce
+9.Result
+10.Expected result
+11.Attachments
