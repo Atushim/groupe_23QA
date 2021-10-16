@@ -1,1 +1,0 @@
-# groupe_23QA

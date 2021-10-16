@@ -1,5 +1,0 @@
-1. Build
-2. Environment
-3. Test date
-4. Checking
-5. Result
